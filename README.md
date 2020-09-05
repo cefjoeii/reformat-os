@@ -15,3 +15,11 @@
 - [Ditto Clipboard Manager](https://www.techspot.com/downloads/3670-ditto.html)
 - [Tomighty](https://tomighty.github.io/)
 - [Java](https://www.oracle.com/ph/java/technologies/javase-downloads.html)
+
+# macOS
+
+// TODO
+
+# Linux (Ubuntu)
+
+// TODO
